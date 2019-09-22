@@ -9,6 +9,7 @@ To run the feedreader, download all of the files and open index.html in a browse
 # What Tests Are Run
 
 The feedreader goes through the following tests:
+
     New Feed Selection
         - should have content change
 
